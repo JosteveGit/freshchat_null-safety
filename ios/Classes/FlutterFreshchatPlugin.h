@@ -1,5 +1,5 @@
 #import <Flutter/Flutter.h>
-#import "FreshchatSDK.h"
+#import "FreshchatSdkPlugin.h"
 
 @interface FlutterFreshchatPlugin : NSObject<FlutterPlugin>
 @end
